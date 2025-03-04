@@ -1,11 +1,12 @@
-### Um site do e-commerce (imaginário) AluraBooks, uma livraria online de livros sobre tecnologia.
+<hr>
+<p align="center"> Um site do e-commerce (imaginário) AluraBooks, uma livraria online de livros sobre tecnologia.</p>
 
-### Tecnologias
+## Tecnologias
 - HTML
 - CSS
 - SwiperJS
   
-### Screenshots
+## Screenshots
 ![Print do site](print.png)
 
 Aplicado responsividade com mobile-first
